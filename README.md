@@ -24,28 +24,39 @@ This Java project is a simple console-based number guessing game. The user tries
 5.Allows the user to play multiple rounds.
 
 **Class Details**
+
 *1. NumberGuessingGame Class*
+
 *Attributes:*
-private int numberToGuess: The number the user needs to guess.
-private int numberOfAttempts: The number of attempts made by the user.
-private Scanner scanner: Handles user input.
+
+*private int numberToGuess:* The number the user needs to guess.
+
+*private int numberOfAttempts:* The number of attempts made by the user.
+
+*private Scanner scanner:* Handles user input.
 
 **Constructor:**
 
 public NumberGuessingGame(): Initializes the game by generating a random number and setting the number of attempts to zero.
 
 **Methods:**
+
 1.public void play(): Starts the game and handles the main game loop.
 
 2.private void generateRandomNumber(): Generates a random number between 1 and 100.
+
 3.private void checkGuess(int guess): Checks the user’s guess and provides feedback.
 
 **2. Main Class**
+
 *Methods:*
+
 public static void main(String[] args): Entry point of the program. Creates an instance of NumberGuessingGame and starts the game.
 
 **Usage Instructions**
+
 *Clone the Repository:*
+
 git clone https://github.com/yourusername/NumberGuessingGame.git
 cd NumberGuessingGame
 
