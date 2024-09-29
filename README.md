@@ -18,9 +18,13 @@ This Java project is a simple console-based number guessing game. The user tries
 **Features**
 
 1.Generates a random number between 1 and 100.
+
 2.Prompts the user to guess the number.
+
 3.Provides feedback on each guess (too high, too low, or correct).
+
 4.Tracks the number of attempts.
+
 5.Allows the user to play multiple rounds.
 
 **Class Details**
