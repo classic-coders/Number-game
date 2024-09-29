@@ -61,8 +61,7 @@ public static void main(String[] args): Entry point of the program. Creates an i
 
 **Clone the Repository:**
 
-git clone https://github.com/yourusername/NumberGuessingGame.git
-cd NumberGuessingGame
+https://github.com/classic-coders/Number-game.git
 
 *Compile and Run:* Use a Java IDE (Eclipse, IntelliJ) or compile from the command line. Run the Main class to start the game.
 
