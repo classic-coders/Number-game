@@ -1,4 +1,4 @@
-## CODSOFT INTERNSHIP TASK 3
+## CODSOFT INTERNSHIP TASK 1
 ## NUMBER GAME
 
 *NAME*    :    ARUN KUMAR M
@@ -37,15 +37,15 @@ This Java project is a simple console-based number guessing game. The user tries
 
 **Constructor:**
 
-public NumberGuessingGame(): Initializes the game by generating a random number and setting the number of attempts to zero.
+*public NumberGuessingGame():* Initializes the game by generating a random number and setting the number of attempts to zero.
 
 **Methods:**
 
-1.public void play(): Starts the game and handles the main game loop.
+*1.public void play():* Starts the game and handles the main game loop.
 
-2.private void generateRandomNumber(): Generates a random number between 1 and 100.
+*2.private void generateRandomNumber():* Generates a random number between 1 and 100.
 
-3.private void checkGuess(int guess): Checks the user’s guess and provides feedback.
+*3.private void checkGuess(int guess):* Checks the user’s guess and provides feedback.
 
 **2. Main Class**
 
@@ -55,7 +55,7 @@ public static void main(String[] args): Entry point of the program. Creates an i
 
 **Usage Instructions**
 
-*Clone the Repository:*
+**Clone the Repository:**
 
 git clone https://github.com/yourusername/NumberGuessingGame.git
 cd NumberGuessingGame
