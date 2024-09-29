@@ -51,13 +51,13 @@ This Java project is a simple console-based number guessing game. The user tries
 
 *3.private void checkGuess(int guess):* Checks the user’s guess and provides feedback.
 
-**2. Main Class**
+**2. Main Class:**
 
 *Methods:*
 
 public static void main(String[] args): Entry point of the program. Creates an instance of NumberGuessingGame and starts the game.
 
-**Usage Instructions**
+**Usage Instructions:**
 
 **Clone the Repository:**
 
@@ -68,7 +68,7 @@ cd NumberGuessingGame
 
 *Follow Console Instructions:* Enter your guesses when prompted and receive feedback until you guess the correct number.
 
-**Project Structure**
+**Project Structure:**
 
 NumberGuessingGame/
 
